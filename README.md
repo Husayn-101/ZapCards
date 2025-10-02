@@ -43,7 +43,7 @@ ZapCards is a modern, aesthetic study application that uses Google's Gemini AI t
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/zapcards.git
+   git clone https://github.com/Husayn-101/zapcards.git
    cd zapcards
    ```
 
